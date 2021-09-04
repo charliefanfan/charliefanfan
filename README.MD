@@ -15,7 +15,7 @@
 * 路徑分析
 
 
-##### 我的開源項目：
+
 ##### 數據分析方向
 * [data_analysis.md](https://github.com/charliefanfan/data-analysis/blob/main/data_analysis)：數據分析報告 - 規範
 * [template](https://github.com/charliefanfan/data-analysis/blob/main/templat): 基本模板
